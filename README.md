@@ -1,4 +1,8 @@
-## Hi there 👋
+## What's up?
+
+I am a noob who is currently learning Python.
+I dabble with Godot as well and hope Python will give me keys to GDScript.
+I am new to all of this, but I am trying my best.
 
 <!--
 **Timippa/Timippa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
