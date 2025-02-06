@@ -2,6 +2,7 @@
 
 I am a noob who is currently learning Python.
 I dabble with Godot as well and hope Python will give me keys to GDScript.
+Pico-8 got me into Lua.
 I am new to all of this, but I am trying my best.
 
 <!--
